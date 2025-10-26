@@ -45,15 +45,7 @@ export default function Hero() {
                             {slide.subText}
                           </p>
                         </div>
-                        <div className="box-btn-slider fade-item fade-item-3">
-                          <Link
-                            to={`/shop-default`}
-                            className="tf-btn btn-dark2 animate-btn"
-                          >
-                            Shop Collection
-                            <i className="icon icon-arr-right" />
-                          </Link>
-                        </div>
+            
                       </div>
                     </div>
                   </div>
